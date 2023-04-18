@@ -1,0 +1,37 @@
+.loginpage {
+    margin: 0 auto;
+    width: 600px;
+  }
+  
+  .loginpage h2 {
+    font-size: xx-large;
+  }
+  
+  .loginform {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .loginform label {
+    text-align: left;
+    padding-top: 1rem;
+    font-weight: 600;
+  }
+  
+  .loginform input {
+    line-height: 3rem;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+  }
+  
+  .loginform button {
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    margin-top: 1rem;
+    line-height: 3rem;
+    font-size: x-large;
+    text-transform: uppercase;
+  }
+  

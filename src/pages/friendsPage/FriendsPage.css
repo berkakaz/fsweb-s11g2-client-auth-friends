@@ -1,0 +1,18 @@
+.friends-list {
+    text-align: left;
+    margin: 0 auto;
+    width: 800px;
+  }
+  
+  .friends-list h2 {
+    font-size: 4rem;
+    font-weight: 600;
+    padding: 1.5rem;
+  }
+  
+  .friends {
+    font-weight: 600;
+    font-size: x-large;
+    padding: 1rem;
+  }
+  
